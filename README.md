@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bernardp93
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m bernardPauni
+- 👀 I’m interested in data analysis 
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data analysis
+- 📫 How to reach me musafiripauni@gmail.com
 
 <!---
 Bernardp93/Bernardp93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
